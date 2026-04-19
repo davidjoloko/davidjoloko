@@ -9,7 +9,7 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/↗%20Portfolio-000000?style=for-the-badge&logoColor=white)](https://davidjoloko.github.io)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidjoloko)&nbsp;[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)&nbsp;[![Ontario Tech](https://img.shields.io/badge/MBAI-Ontario%20Tech-1F3A8A?style=for-the-badge)](https://ontariotechu.ca)
+[![Portfolio](https://img.shields.io/badge/↗%20Portfolio-000000?style=for-the-badge&logoColor=white)](https://davidjoloko.github.io)&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/david-joloko)&nbsp;[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidjoloko@email.com)&nbsp;[![Ontario Tech](https://img.shields.io/badge/MBAI-Ontario%20Tech-1F3A8A?style=for-the-badge)](https://ontariotechu.ca)
 
 ---
 
