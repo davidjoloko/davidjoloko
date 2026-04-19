@@ -69,4 +69,4 @@ stack = {
 |---|---|
 | 🌐 &nbsp;Portfolio | [davidjoloko.github.io](https://davidjoloko.github.io) |
 | 💼 &nbsp;LinkedIn | [linkedin.com/in/davidjoloko](https://linkedin.com/in/davidjoloko) |
-| 📬 &nbsp;Email | [you@email.com](mailto:you@email.com) |
+| 📬 &nbsp;Email | [davidjoloko@email.com](mailto:davidjoloko@email.com) |
