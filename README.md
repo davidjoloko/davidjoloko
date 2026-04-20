@@ -22,7 +22,6 @@
 │  DEGREE     MBAI — Ontario Tech University  [active]     │
 │  DOMAIN     Finance · Crypto · Business Analytics        │
 │  LOCATION   Toronto, Canada                              │
-│  STATUS     ● Open to opportunities                      │
 └─────────────────────────────────────────────────────────┘
 ```
 
